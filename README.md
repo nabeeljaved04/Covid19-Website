@@ -1,5 +1,5 @@
 # Covid19-Website
-This is a static covid-19 helpline website . I have used html ,css, java script, azure Staic Web app  service to create this project . It can tell you the prevention measures , symptoms etc.. 
+This is a static covid-19 helpline website . I have used html ,css, java script, azure Staic Web app  service to create this project . It can tell you the prevention measures , symptoms etc., and also you can book the appointment and concult the doctor in this website.
  
 Test my project(my website link): https://icy-smoke-00e0f7010.1.azurestaticapps.net
 
